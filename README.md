@@ -11,4 +11,5 @@ The code makes use of
   <li>Quantum OT: https://github.com/gpeyre/2017-EJAM-quantum-ot</li>
 </ol>
 
-To run the code, please download the CVX and Qauntum OT and place the folders in /code/quantumot/.
+
+To run the code, please download the CVX and Qauntum OT from the above link and place the folders in /code/quantumot/.
