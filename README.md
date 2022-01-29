@@ -5,10 +5,11 @@ This repo contains code implementation for paper:
 
 The code makes use of 
 <ol>
-  <li>GW distance averaging: https://github.com/gpeyre/2016-ICML-gromov-wasserstein</li>
+  <li>Manopt toolbox: https://github.com/NicolasBoumal/manopt</li>
   <li>CVX optimization toolbox: http://cvxr.com/cvx/</li>
   <li>CVXQUAD: https://github.com/hfawzi/cvxquad</li>
   <li>Quantum OT: https://github.com/gpeyre/2017-EJAM-quantum-ot</li>
+  <li>GW distance averaging: https://github.com/gpeyre/2016-ICML-gromov-wasserstein</li>
 </ol>
 
 
