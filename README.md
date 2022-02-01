@@ -1,7 +1,7 @@
 # BlockSPDOT
 This repo contains code implementation for paper:
 
-"Riemannian block SPD coupling manifold and its application to optimal transport" (TBA)
+"Riemannian block SPD coupling manifold and its application to optimal transport" https://arxiv.org/abs/2201.12933
 
 The code makes use of 
 <ol>
